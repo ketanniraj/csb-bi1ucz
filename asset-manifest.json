@@ -1,20 +1,17 @@
 {
   "files": {
-    "main.css": "https://ketanniraj.github.io/csb-bi1ucz/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://ketanniraj.github.io/csb-bi1ucz/static/js/main.c739efd2.chunk.js",
-    "main.js.map": "https://ketanniraj.github.io/csb-bi1ucz/static/js/main.c739efd2.chunk.js.map",
+    "main.js": "https://ketanniraj.github.io/csb-bi1ucz/static/js/main.637d8f13.chunk.js",
+    "main.js.map": "https://ketanniraj.github.io/csb-bi1ucz/static/js/main.637d8f13.chunk.js.map",
     "runtime-main.js": "https://ketanniraj.github.io/csb-bi1ucz/static/js/runtime-main.db258a05.js",
     "runtime-main.js.map": "https://ketanniraj.github.io/csb-bi1ucz/static/js/runtime-main.db258a05.js.map",
-    "static/js/2.f3250fbc.chunk.js": "https://ketanniraj.github.io/csb-bi1ucz/static/js/2.f3250fbc.chunk.js",
-    "static/js/2.f3250fbc.chunk.js.map": "https://ketanniraj.github.io/csb-bi1ucz/static/js/2.f3250fbc.chunk.js.map",
+    "static/js/2.72c80f60.chunk.js": "https://ketanniraj.github.io/csb-bi1ucz/static/js/2.72c80f60.chunk.js",
+    "static/js/2.72c80f60.chunk.js.map": "https://ketanniraj.github.io/csb-bi1ucz/static/js/2.72c80f60.chunk.js.map",
     "index.html": "https://ketanniraj.github.io/csb-bi1ucz/index.html",
-    "static/css/main.f29ae65a.chunk.css.map": "https://ketanniraj.github.io/csb-bi1ucz/static/css/main.f29ae65a.chunk.css.map",
-    "static/js/2.f3250fbc.chunk.js.LICENSE.txt": "https://ketanniraj.github.io/csb-bi1ucz/static/js/2.f3250fbc.chunk.js.LICENSE.txt"
+    "static/js/2.72c80f60.chunk.js.LICENSE.txt": "https://ketanniraj.github.io/csb-bi1ucz/static/js/2.72c80f60.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.db258a05.js",
-    "static/js/2.f3250fbc.chunk.js",
-    "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.c739efd2.chunk.js"
+    "static/js/2.72c80f60.chunk.js",
+    "static/js/main.637d8f13.chunk.js"
   ]
 }
